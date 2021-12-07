@@ -1,2 +1,2 @@
 add_subdirectory(fct_read)
-add_subdirectory(tests)
+# add_subdirectory(tests)
